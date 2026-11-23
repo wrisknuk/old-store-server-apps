@@ -77,17 +77,6 @@
     "number": "7"
   },
   {
-    "name": "VK",
-    "icon": "apps/icons/vk.png",
-    "file": "apps/vk.xap",
-    "rating": 5,
-    "ratings": 843,
-    "price": "Free",
-    "ops": "",
-    "class": "mas",
-    "number": "8"
-  },
-  {
     "name": "Doodle Jump",
     "icon": "apps/icons/dd_g.png",
     "file": "apps/1754602893_Doodle_Jump_1.0.3.0.xap",
